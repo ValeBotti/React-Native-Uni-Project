@@ -22,4 +22,5 @@ MVVM architectural paradigm
 Handling location services and permissions
 Working extensively with APIs (e.g., handling HTTP requests)
 Managing application state, props, hooks, and JSX syntax
+
 [screenRecording](https://drive.google.com/file/d/1-AMCb8xX8MzGYV5EyaROIS7-_yYdDxuM/view?usp=sharing)
