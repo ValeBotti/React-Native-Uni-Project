@@ -16,7 +16,7 @@ The project involved decisions based on the professor's guidelines, with some en
 
 This experience allowed me to gain knowledge and hands-on practice in:
 
-Imperative web programming paradigms
+Declarative web programming paradigm
 Event-based programming
 MVVM architectural paradigm
 Handling location services and permissions
